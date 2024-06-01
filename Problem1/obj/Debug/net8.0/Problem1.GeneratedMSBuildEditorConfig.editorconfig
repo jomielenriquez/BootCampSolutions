@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Problem1
-build_property.ProjectDir = C:\Users\Jomiel\source\repos\Demo\Problem1\
+build_property.ProjectDir = /workspaces/BootCampSolutions/Problem1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
